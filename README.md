@@ -1,2 +1,2 @@
 # Rstudiostuff
-Working with R. An Statistical Program.
+Working with R using markdown and shiny.
